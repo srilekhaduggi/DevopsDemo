@@ -7,12 +7,15 @@ public class HelloWorld {
         // Creates a reader instance which takes
         // input from standard input - keyboard
 
-        System.out.print("This is my first automated build file of the jenkins");
+        System.out.println("This is my first automated build file of the jenkins");
 
         // nextInt() reads the next integer from the keyboard
         
 
         // println() prints the following line to the output screen
         System.out.println("Build done.....yahoooooo.........");
+        
+        System.out.println("good job srilekha");
+        
     }
 }
